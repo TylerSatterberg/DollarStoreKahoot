@@ -4,6 +4,10 @@
 	font-size:50;
 }
 
+.button{
+transition-duration: 0.4s;
+}
+
 .testing
 {
 border: 5px solid black;
