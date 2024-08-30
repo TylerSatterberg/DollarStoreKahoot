@@ -20,3 +20,7 @@ color: blue;
 .button1:hover{
 background-color: blue;
 color: white;
+}
+button{
+margin-bottom: 10px;
+}
