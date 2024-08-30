@@ -11,8 +11,8 @@ margin-bottom: 10px;
 margin-top: 10px;
 margin-right: 10px;
 margin-left: 10px;
-height: 25%
-width: 50%
+height: 25%;
+width: 50%;
 }
 
 .testing
@@ -30,7 +30,7 @@ color: blue;
 
 .button1:hover{
 background-color: 0,0,255,0.3;
-color: white;
+text-color: black;
 }
 
 p 
