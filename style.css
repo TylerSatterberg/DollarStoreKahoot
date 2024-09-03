@@ -17,7 +17,7 @@ width: 48%;
 display: inline-block; 
 font-weight: bold; 
 font-size: 25px; 
-color: white;
+color: black;
 }
 
 body{
@@ -34,7 +34,7 @@ background-color: #b9e870;
 .button1{
 background-color: #e21b3c; 
 border: 2px solid #dd657d; 
-color: white;
+color: black;
 } 
 
 .button1:hover{
@@ -44,7 +44,7 @@ filter: brightness(90%);
 .button2{
 background-color: #1368ce; 
 border: 2px solid #5c8ac2; 
-color: white;
+color: black;
 } 
 
 .button2:hover{
@@ -54,7 +54,7 @@ filter: brightness(90%);
 .button3{
 background-color: #d89e02; 
 border: 2px solid #cba964; 
-color: white;
+color: black;
 } 
 
 .button3:hover{
@@ -64,7 +64,7 @@ filter: brightness(90%);
 .button4{
 background-color: #27890d; 
 border: 2px solid #70a15e; 
-color: white;
+color: black;
 } 
 
 .button4:hover{
