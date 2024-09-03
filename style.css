@@ -31,7 +31,7 @@ background-color: #368f44;
 
 .button1{
 background-color: #e21b3c; 
-border: 2px solid black; 
+border: 2px solid #dd657d; 
 text-color: white;
 } 
 
@@ -42,7 +42,7 @@ text-color: black;
 }
 .button2{
 background-color: #1368ce; 
-border: 2px solid black; 
+border: 2px solid #5c8ac2; 
 text-color: white;
 } 
 
@@ -53,7 +53,7 @@ text-color: black;
 }
 .button3{
 background-color: #d89e02; 
-border: 2px solid black; 
+border: 2px solid #cba964; 
 text-color: white;
 } 
 
@@ -64,7 +64,7 @@ text-color: black;
 }
 .button4{
 background-color: #27890d; 
-border: 2px solid black; 
+border: 2px solid #70a15e; 
 text-color: white;
 } 
 
