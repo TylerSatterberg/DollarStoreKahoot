@@ -1,7 +1,8 @@
 .Question 
 {
 	text-align: center; 
-	font-size: 50px;
+	font-size: 50px; 
+	font-weight: bold;
 }
 
 .button{
@@ -13,7 +14,8 @@ margin-right: 10px;
 margin-left: 10px;
 height: 180px;
 width: 49%;
-display: inline-block;
+display: inline-block; 
+font-weight: bold;
 }
 
 .testing
