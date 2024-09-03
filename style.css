@@ -41,6 +41,7 @@ text-color: white;
 background-color: #e21b3c;
 opacity: 0.3;
 text-color: black;
+filter: brightness(90%);
 }
 .button2{
 background-color: #1368ce; 
@@ -52,6 +53,7 @@ text-color: white;
 background-color: #1368ce;
 opacity: 0.3;
 text-color: black;
+filter: brightness(90%);
 }
 .button3{
 background-color: #d89e02; 
@@ -63,6 +65,7 @@ text-color: white;
 background-color:#d89e02;
 opacity: 0.3;
 text-color: black;
+filter: brightness(90%);
 }
 .button4{
 background-color: #27890d; 
@@ -74,6 +77,7 @@ text-color: white;
 background-color: #27890d;
 opacity: 0.3;
 text-color: black;
+filter: brightness(90%);
 }
 p 
 {
