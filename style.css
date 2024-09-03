@@ -29,7 +29,8 @@ color: blue;
 } 
 
 .button1:hover{
-background-color: 0, 0, 255, 0.3;
+background-color: 0, 0, 255;
+opacity: 0.3;
 text-color: black;
 }
 
