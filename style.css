@@ -23,17 +23,49 @@ background-color: #368f44;
 }
 
 .button1{
-background-color: white; 
+background-color: red; 
 border: 2px solid black; 
-color: blue;
+text-color: white;
 } 
 
 .button1:hover{
+background-color: red;
+opacity: 0.3;
+text-color: black;
+}
+.button2{
+background-color: blue; 
+border: 2px solid black; 
+text-color: white;
+} 
+
+.button2:hover{
 background-color: 0, 0, 255;
 opacity: 0.3;
 text-color: black;
 }
+.button3{
+background-color: yellow; 
+border: 2px solid black; 
+text-color: white;
+} 
 
+.button3:hover{
+background-color:yellow;
+opacity: 0.3;
+text-color: black;
+}
+.button4{
+background-color: green; 
+border: 2px solid black; 
+text-color: white;
+} 
+
+.button4:hover{
+background-color: green;
+opacity: 0.3;
+text-color: black;
+}
 p 
 {
 
