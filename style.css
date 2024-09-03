@@ -39,7 +39,6 @@ text-color: white;
 
 .button1:hover{
 background-color: #e21b3c;
-opacity: 0.3;
 text-color: black;
 filter: brightness(90%);
 }
@@ -51,7 +50,6 @@ text-color: white;
 
 .button2:hover{
 background-color: #1368ce;
-opacity: 0.3;
 text-color: black;
 filter: brightness(90%);
 }
@@ -63,7 +61,6 @@ text-color: white;
 
 .button3:hover{
 background-color:#d89e02;
-opacity: 0.3;
 text-color: black;
 filter: brightness(90%);
 }
@@ -75,7 +72,6 @@ text-color: white;
 
 .button4:hover{
 background-color: #27890d;
-opacity: 0.3;
 text-color: black;
 filter: brightness(90%);
 }
