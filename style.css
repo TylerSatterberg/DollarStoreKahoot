@@ -18,6 +18,10 @@ display: inline-block;
 font-weight: bold;
 }
 
+body{
+font-family: Monaco;
+}
+
 .testing
 {
 border: 5px solid black;
