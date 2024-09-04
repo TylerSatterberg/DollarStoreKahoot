@@ -8,3 +8,16 @@ h1{
 	font-size: 40px;
 	margin-top: 300px;
 }
+
+img{
+	display: block;
+}
+
+button{
+	margin-top: 100px; 
+	font-size: 17px; 
+	color: white;
+	background-color: black;
+	height: 35px;
+	width: 80px;
+}
