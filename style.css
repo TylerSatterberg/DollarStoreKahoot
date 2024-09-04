@@ -71,8 +71,43 @@ filter: brightness(90%);
   <a>href = "correct1.html"</a>
   </li>
   }
-.InCorrect{
+.no{
   <li>
   <a>href = "InCorrect.html"</a>
+  </li>
+  }
+  .Correct2{
+  <li>
+  <a>href = "correct2.html"</a>
+  </li>
+  }
+  .no{
+  <li>
+  <a>href = "InCorrect.html"</a>
+  </li>
+  }
+  .Correct3{
+  <li>
+  <a>href = "correct3.html"</a>
+  </li>
+  }
+  .no{
+  <li>
+  <a>href = "InCorrect.html"</a>
+  </li>
+  }
+  .Correct4{
+  <li>
+  <a>href = "correct4.html"</a>
+  </li>
+  }
+   .no{
+  <li>
+  <a>href = "InCorrect.html"</a>
+  </li>
+  }
+  .Finish{
+  <li>
+  <a>href = "finish.html"</a>
   </li>
   }
