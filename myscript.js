@@ -6,6 +6,6 @@ if ($('.current-question').hasClass('C')) {
 else:
  ($('.current-question').hasClass('I')) {
 $('.current-question').removeClass('current-question');
-
+$('.current-question').next().addClass('you-lose');
 }
  })
