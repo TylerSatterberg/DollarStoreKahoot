@@ -4,6 +4,6 @@ $(document).ready(function() {
     $('.current-question').next().addClass('current-question');
   }
   else if ($('.current-question').hasClass('I')) {
-    window.location.href = 'lose.html';
+    window.location.href = 'incorrect.html';
   }
 });
