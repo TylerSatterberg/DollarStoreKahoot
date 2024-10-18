@@ -1,9 +1,50 @@
 $(document).ready(function() {
-  if ($('.current-question').hasClass('C')) {
-    $('.current-question').removeClass('current-question');
-    $('.current-question').next().addClass('current-question');
-  }
-  else if ($('.current-question').hasClass('I')) {
-    window.location.href = 'incorrect.html';
-  }
+	$("#1button4").click(function(){
+		$("#incorrectPanel1").slideToggle("slow");
+	});
+	$("#1button3").click(function(){
+		$("#incorrectPanel1").slideToggle("slow");
+	});
+	$("#1button2").click(function(){
+		$("#incorrectPanel1").slideToggle("slow");
+	});
+	$("#1button1").click(function(){
+		$("#correctPanel1").slideToggle("slow");
+	});	
+	$("#2button4").click(function(){
+		$("#incorrectPanel2").slideToggle("slow");
+	});
+	$("#2button3").click(function(){
+		$("#incorrectPanel2").slideToggle("slow");
+	});
+	$("#2button2").click(function(){
+		$("#incorrectPanel2").slideToggle("fast");
+	});
+	$("#2button1").click(function(){
+		$("#correctPanel2").slideToggle("fast");
+	});
+	$("#3button4").click(function(){
+		$("#incorrectPanel3").slideToggle("fast");
+	});
+	$("#3button3").click(function(){
+		$("#correctPanel3").slideToggle("fast");
+	});
+	$("#3button2").click(function(){
+		$("#incorrectPanel3").slideToggle("fast");
+	});
+	$("#3button1").click(function(){
+		$("#incorrectPanel3").slideToggle("fast");
+	});
+	$("#4button4").click(function(){
+		$("#incorrectPanel4").slideToggle("fast");
+	});
+	$("#4button3").click(function(){
+		$("#correctPanel4").slideToggle("fast");
+	});
+	$("#4button2").click(function(){
+		$("#incorrectPanel4").slideToggle("fast");
+	});
+	$("#4button1").click(function(){
+		$("#incorrectPanel4").slideToggle("fast");
+	});
 });
